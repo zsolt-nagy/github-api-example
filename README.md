@@ -11,4 +11,4 @@ Paragraph 2
 
 ## Wireframes
 
-<img src="https://raw.githubusercontent.com/zsolt-nagy/github-api-example/main/wireframes/example-wireframe.png" alt="Page wireframe" />
+![Page wireframe](https://raw.githubusercontent.com/zsolt-nagy/github-api-example/main/wireframes/example-wireframe.png)
